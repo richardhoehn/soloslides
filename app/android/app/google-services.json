@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598915872738",
+    "project_id": "solo-slides",
+    "storage_bucket": "solo-slides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598915872738:android:7a542051c8d156bd17ebbb",
+        "android_client_info": {
+          "package_name": "com.soloslides.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-TaI3a0jdGDnvLQTeN_SIHm_eqLa2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
